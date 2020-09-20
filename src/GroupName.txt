@@ -1,9 +1,5 @@
-Kunja Bijukchhe: 041802900022
-Prashant Basnet: 041802900027
-Niketan Chaudhary: 041802900028
-Sangit Raj K.C:041802900036
-
-
+Kunja Bijukchhe: 
+localhost:3307
 
 Note:
  _______________
